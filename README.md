@@ -1,2 +1,2 @@
 # BeerForge
-Home brewing software
+Home brewing software 🍻
